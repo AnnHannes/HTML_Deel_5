@@ -1,0 +1,18 @@
+table,
+td,
+th {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+}
+
+colgroup {
+    border: 3px solid #000;
+}
+
+col {
+    width: 100px;
+}
+
+col:first-child {
+    background-color: lightblue;
+}
